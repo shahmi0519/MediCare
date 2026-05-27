@@ -41,13 +41,13 @@ export function HomeView({ onAppointmentClick }: HomeViewProps) {
             >
               Schedule Immediate Consultation
             </Button>
-            <Button
+            {/* <Button
               variant="outline"
               size="lg"
               className="border-primary text-primary hover:bg-primary/5"
             >
               Learn More
-            </Button>
+            </Button> */}
           </div>
         </div>
 
